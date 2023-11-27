@@ -2,7 +2,7 @@
 
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=random&height=250&text=Chung_Min&fontAlign=73&rotate=13&fontAlignY=25&desc=&descAlign=70.&descAlignY=44)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chungmln&show_icons=true&theme=radicl)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chungmln&show_icons=true&theme=radical)
 <p></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungmln&layout=compact&theme=github_dark)
